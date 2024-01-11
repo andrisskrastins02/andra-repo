@@ -426,3 +426,21 @@
 2024-01-11 18:23:13,037 - DEBUG - naked : Asteroid NOT in db
 2024-01-11 18:23:13,039 - DEBUG - naked : Asteroid NOT in db
 2024-01-11 18:23:13,042 - DEBUG - naked : Asteroid NOT in db
+2024-01-11 19:49:51,871 - INFO - naked : Asteroid processing service
+2024-01-11 19:49:51,871 - INFO - naked : Loading configuration from file
+2024-01-11 19:49:51,871 - INFO - naked : DONE
+2024-01-11 20:04:34,977 - INFO - naked : Asteroid processing service
+2024-01-11 20:04:34,978 - INFO - naked : Loading configuration from file
+2024-01-11 20:04:34,978 - INFO - naked : DONE
+2024-01-11 20:09:30,312 - INFO - naked : Asteroid processing service
+2024-01-11 20:09:30,312 - INFO - naked : Loading configuration from file
+2024-01-11 20:09:30,313 - INFO - naked : DONE
+2024-01-11 20:10:03,175 - INFO - naked : Asteroid processing service
+2024-01-11 20:10:03,176 - INFO - naked : Loading configuration from file
+2024-01-11 20:10:03,176 - INFO - naked : DONE
+2024-01-11 20:11:43,231 - INFO - naked : Asteroid processing service
+2024-01-11 20:11:43,232 - INFO - naked : Loading configuration from file
+2024-01-11 20:11:43,232 - INFO - naked : DONE
+2024-01-11 20:12:32,436 - INFO - naked : Asteroid processing service
+2024-01-11 20:12:32,436 - INFO - naked : Loading configuration from file
+2024-01-11 20:12:32,437 - INFO - naked : DONE
